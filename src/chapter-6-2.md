@@ -1,5 +1,4 @@
-Chapter 6: Mindset and Motivation: Developing a Growth Mindset
-==============================================================
+# Developing a Growth Mindset
 
 Having the right mindset and motivation is essential for achieving productivity and success. In this chapter, we'll discuss how to develop a growth mindset that can help you overcome obstacles and reach your full potential.
 

@@ -1,5 +1,4 @@
-Chapter 3: Task Management: Prioritizing Tasks Based on Importance and Urgency
-==============================================================================
+# Prioritizing Tasks Based on Importance and Urgency
 
 Effective task management is essential for productivity and success. In this chapter, we'll discuss how to prioritize tasks based on their importance and urgency.
 

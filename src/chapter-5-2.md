@@ -1,5 +1,4 @@
-Chapter 5: Physical Productivity: Incorporating Physical Activity and Breaks
-============================================================================
+# Incorporating Physical Activity and Breaks
 
 Physical activity and regular breaks are essential for maintaining optimal productivity throughout the day. Here are some tips for incorporating physical activity and breaks into your routine:
 

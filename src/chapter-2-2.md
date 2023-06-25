@@ -1,5 +1,4 @@
-Chapter 2: Time Management: Setting Priorities
-==============================================
+# Setting Priorities
 
 Effective time management requires setting priorities and focusing on what's important. In this chapter, we'll discuss how to set priorities to make the most of your time.
 

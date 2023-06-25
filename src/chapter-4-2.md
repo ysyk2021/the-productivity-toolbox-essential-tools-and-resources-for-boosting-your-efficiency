@@ -1,5 +1,4 @@
-Chapter 4: Digital Productivity: Managing Email and Communication
-=================================================================
+# Managing Email and Communication
 
 Email and communication can be major sources of distraction and overwhelm in today's digital age. In this chapter, we'll discuss how to manage email and communication effectively to improve productivity and reduce stress.
 

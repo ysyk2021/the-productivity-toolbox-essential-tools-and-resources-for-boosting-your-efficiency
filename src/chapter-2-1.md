@@ -1,5 +1,4 @@
-Chapter 2: Time Management: Identifying Time Wasters
-====================================================
+# Identifying Time Wasters
 
 Time is a precious resource, and effective time management is essential for productivity and success. In this chapter, we'll discuss how to identify time wasters and eliminate them to make the most of your time.
 

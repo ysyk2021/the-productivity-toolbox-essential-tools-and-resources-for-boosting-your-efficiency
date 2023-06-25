@@ -1,5 +1,4 @@
-Chapter 5: Physical Productivity: Managing Sleep and Rest
-=========================================================
+# Managing Sleep and Rest
 
 Physical productivity is an often overlooked aspect of overall productivity. Proper sleep and rest are essential for maintaining physical health, which in turn affects mental focus and productivity. Here are some tips for managing sleep and rest to boost your productivity:
 

@@ -1,5 +1,4 @@
-Chapter 7: Collaboration and Delegation: Delegating Tasks to Others
-===================================================================
+# Delegating Tasks to Others
 
 Effective delegation is an essential skill for productivity and success. In this chapter, we'll discuss how to delegate tasks to others to make the most of your time.
 

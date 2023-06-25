@@ -1,5 +1,4 @@
-Chapter 9: Conclusion: Summary of Key Points
-============================================
+# Summary of Key Points
 
 In this book, we have explored various tools and resources that can help you boost your productivity. Here are some of the key points to remember:
 

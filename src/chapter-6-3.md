@@ -1,5 +1,4 @@
-Chapter 6: Mindset and Motivation: Finding Motivation and Inspiration
-=====================================================================
+# Finding Motivation and Inspiration
 
 Staying motivated and inspired is essential for achieving productivity and success. In this chapter, we'll discuss how to find motivation and inspiration to help you achieve your goals.
 

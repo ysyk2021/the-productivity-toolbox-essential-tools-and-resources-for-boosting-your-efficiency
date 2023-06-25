@@ -1,5 +1,4 @@
-Chapter 3: Task Management: Breaking Down Tasks into Manageable Steps
-=====================================================================
+# Breaking Down Tasks into Manageable Steps
 
 Breaking down larger tasks into smaller, more manageable steps is an essential component of effective task management. In this chapter, we'll discuss how to break down tasks and why it's important.
 

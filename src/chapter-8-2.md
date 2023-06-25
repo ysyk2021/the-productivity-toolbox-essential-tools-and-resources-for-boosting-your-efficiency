@@ -1,5 +1,4 @@
-Chapter 8: Continuous Improvement: Setting Goals for Improvement
-================================================================
+# Setting Goals for Improvement
 
 Continuous improvement is essential for maintaining productivity and achieving success. Here are some tips for setting goals for improvement:
 

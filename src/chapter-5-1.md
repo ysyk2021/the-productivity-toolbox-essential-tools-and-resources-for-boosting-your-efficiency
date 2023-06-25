@@ -1,5 +1,4 @@
-Chapter 5: Physical Productivity: Creating an Ergonomic Workspace
-=================================================================
+# Creating an Ergonomic Workspace
 
 Creating an ergonomic workspace is essential for physical productivity and maintaining good health. In this chapter, we'll discuss how to create an ergonomic workspace that works for you.
 

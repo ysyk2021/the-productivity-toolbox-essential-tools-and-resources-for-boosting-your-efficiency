@@ -1,5 +1,4 @@
-Chapter 2: Time Management: Creating a Schedule and Routine
-===========================================================
+# Creating a Schedule and Routine
 
 Effective time management requires discipline and structure. In this chapter, we'll discuss how to create a schedule and routine that works for you and helps you achieve your goals.
 

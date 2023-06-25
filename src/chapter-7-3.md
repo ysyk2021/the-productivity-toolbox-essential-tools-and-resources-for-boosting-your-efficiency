@@ -1,5 +1,4 @@
-Chapter 7: Collaboration and Delegation: Managing Team Productivity
-===================================================================
+# Managing Team Productivity
 
 In today's work environment, collaboration and delegation are critical components of productivity. Here are some tools and tips for managing team productivity:
 

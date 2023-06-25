@@ -1,5 +1,4 @@
-Chapter 4: Digital Productivity: Streamlining Workflow with Automation
-======================================================================
+# Streamlining Workflow with Automation
 
 Automation is a powerful tool for improving productivity and efficiency in the digital age. In this chapter, we'll discuss how to streamline your workflow with automation and save time on repetitive tasks.
 

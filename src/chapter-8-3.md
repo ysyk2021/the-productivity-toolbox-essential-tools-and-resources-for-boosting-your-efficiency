@@ -1,5 +1,4 @@
-Chapter 8: Continuous Improvement: Implementing Changes and Measuring Progress
-==============================================================================
+# Implementing Changes and Measuring Progress
 
 Productivity is not a one-time achievement, but an ongoing process of improvement. Here are some tools and tips for implementing changes and measuring progress:
 

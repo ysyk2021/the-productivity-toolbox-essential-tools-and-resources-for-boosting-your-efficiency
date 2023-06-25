@@ -1,5 +1,4 @@
-Chapter 6: Mindset and Motivation: Overcoming Procrastination and Distractions
-==============================================================================
+# Overcoming Procrastination and Distractions
 
 Procrastination and distractions can be major obstacles to productivity. In this chapter, we'll discuss how to overcome procrastination and distractions and stay focused on your goals.
 
