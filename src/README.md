@@ -8,5 +8,4 @@ The book is written in an accessible, easy-to-follow style, making it suitable f
 
 So if you're ready to take control of your productivity and start achieving your goals more effectively, pick up a copy of "The Productivity Toolbox: Essential Tools and Resources for Boosting Your Efficiency" today!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
