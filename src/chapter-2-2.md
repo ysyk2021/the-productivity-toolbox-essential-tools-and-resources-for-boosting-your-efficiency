@@ -1,4 +1,4 @@
-Chapter 9: Setting Priorities
+Setting Priorities
 =============================
 
 In this chapter, we will explore the essential skill of setting priorities. We will discuss the importance of prioritization, provide strategies for identifying and organizing tasks, and offer tools and resources to help you effectively manage your priorities.

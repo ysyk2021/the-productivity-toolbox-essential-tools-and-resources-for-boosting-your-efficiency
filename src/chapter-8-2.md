@@ -1,4 +1,4 @@
-Chapter 3: Setting Goals for Improvement
+Setting Goals for Improvement
 ========================================
 
 Setting goals is a fundamental aspect of personal and professional growth. When it comes to productivity, having clear and well-defined goals can be a powerful tool for boosting efficiency and achieving success. This chapter explores the importance of setting goals for improvement and provides strategies for effective goal setting.

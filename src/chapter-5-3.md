@@ -1,4 +1,4 @@
-Chapter 9: Managing Sleep and Rest
+Managing Sleep and Rest
 ==================================
 
 In this chapter, we will discuss the importance of quality sleep and rest for boosting productivity and maintaining overall well-being. We will explore various strategies, techniques, and resources to help you manage your sleep effectively.

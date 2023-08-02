@@ -1,4 +1,4 @@
-Chapter 11: Incorporating Physical Activity and Breaks
+Incorporating Physical Activity and Breaks
 ======================================================
 
 In this chapter, we will explore the importance of incorporating physical activity and taking regular breaks to boost productivity and overall well-being. We will discuss strategies, benefits, and practical tips for integrating movement and rest into your work routine.

@@ -1,4 +1,4 @@
-Chapter 12: Managing Email and Communication
+Managing Email and Communication
 ============================================
 
 Effective management of email and communication is crucial for boosting productivity and maintaining focus. In this chapter, we explore strategies and tools to help you streamline your email workflow and improve communication efficiency.

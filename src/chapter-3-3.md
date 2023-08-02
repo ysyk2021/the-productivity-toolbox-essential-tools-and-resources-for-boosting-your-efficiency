@@ -1,4 +1,4 @@
-Chapter 2: Prioritizing Tasks Based on Importance and Urgency
+Prioritizing Tasks Based on Importance and Urgency
 =============================================================
 
 In this chapter, we will explore the importance of prioritizing tasks based on their importance and urgency. Effective task prioritization is a fundamental skill that can significantly enhance productivity and efficiency. By understanding how to differentiate between important and urgent tasks, readers will be able to focus their time and energy on activities that have the greatest impact on their goals.

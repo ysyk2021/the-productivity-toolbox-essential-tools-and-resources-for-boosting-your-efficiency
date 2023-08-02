@@ -1,4 +1,4 @@
-Chapter 9: Managing Team Productivity
+Managing Team Productivity
 =====================================
 
 In this chapter, we will explore effective strategies for managing team productivity. A productive team is essential for achieving goals and delivering high-quality results. Learn how to optimize team performance, foster collaboration, and enhance overall productivity.
