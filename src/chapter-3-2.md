@@ -23,35 +23,25 @@ Now, let's explore some popular task management tools that can greatly enhance y
 1\. Todoist
 ----------
 
-![Todoist](https://i.imgur.com/6hKuhGC.png)
-
 Todoist is a versatile task management tool known for its simplicity and cross-platform functionality. It offers features like task creation, due dates, labels, priority levels, and project organization. With its intuitive interface and seamless integration with other apps, Todoist is a popular choice for individuals and teams.
 
 2\. Trello
 ---------
-
-![Trello](https://i.imgur.com/qjZ8S0C.png)
 
 Trello is a visual-based task management tool that utilizes boards, lists, and cards to help you organize and prioritize tasks. It offers a flexible and customizable approach, making it suitable for various workflows and project management needs. With its drag-and-drop interface, collaboration features, and integrations, Trello is widely used by individuals, teams, and organizations.
 
 3\. Asana
 --------
 
-![Asana](https://i.imgur.com/7BZc9W4.png)
-
 Asana is a comprehensive task management tool designed to streamline workflows and enhance team collaboration. It offers features such as task assignment, due dates, subtasks, dependencies, and progress tracking. Asana's robust capabilities make it popular among project managers and teams working on complex projects.
 
 4\. Microsoft To Do
 ------------------
 
-![Microsoft To Do](https://i.imgur.com/g0bcMUa.png)
-
 Microsoft To Do is a user-friendly task management tool suitable for both personal and professional use. It seamlessly integrates with other Office 365 tools, providing a cohesive productivity ecosystem. With features like task categorization, due dates, reminders, and My Day view, Microsoft To Do helps users stay organized and focused.
 
 5\. Notion
 ---------
-
-![Notion](https://i.imgur.com/pDoRqjz.png)
 
 Notion is a powerful all-in-one workspace that combines task management, note-taking, and collaboration features. Its flexibility allows users to customize task boards, databases, and calendars according to their specific needs. Notion's versatility makes it suitable for individuals, teams, and even entire organizations.
 

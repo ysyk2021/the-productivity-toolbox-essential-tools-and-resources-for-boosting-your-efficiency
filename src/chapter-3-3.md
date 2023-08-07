@@ -19,8 +19,6 @@ The Eisenhower Matrix
 
 The Eisenhower Matrix is a popular framework for prioritizing tasks based on their importance and urgency. It divides tasks into four categories:
 
-![Eisenhower Matrix](https://i.imgur.com/ii0KoZQ.png)
-
 ### 1. Quadrant 1: Important and Urgent
 
 Tasks falling in this quadrant are both important and urgent. They require immediate attention and should be dealt with promptly. Examples include pressing deadlines, emergencies, and critical issues. Focus on completing these tasks efficiently to avoid negative consequences.
