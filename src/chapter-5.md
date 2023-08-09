@@ -3,11 +3,6 @@ Chapter 5: Physical Productivity
 
 In this chapter, we will explore the importance of physical productivity in boosting efficiency and achieving long-term success. We will look at techniques for creating an ergonomic workspace, incorporating physical activity and breaks, and managing sleep and rest.
 
-The Importance of Physical Productivity
----------------------------------------
-
-Physical productivity is essential for optimizing performance and maintaining overall health and well-being. By taking care of our physical needs, we can increase our energy levels, reduce stress, and improve our focus and concentration.
-
 Creating an Ergonomic Workspace
 -------------------------------
 
