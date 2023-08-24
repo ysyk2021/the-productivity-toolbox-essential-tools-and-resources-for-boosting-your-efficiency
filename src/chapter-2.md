@@ -1,5 +1,3 @@
-Chapter 2: Time Management
-==========================
 
 Effective time management is essential for productivity and success. In this chapter, we'll discuss how to identify time wasters, set priorities, and create a schedule and routine that works for you.
 

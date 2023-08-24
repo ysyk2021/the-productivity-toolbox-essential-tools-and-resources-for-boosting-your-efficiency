@@ -1,5 +1,3 @@
-Creating a Schedule and Routine
-==========================================
 
 In this chapter, we will explore the importance of creating a schedule and routine to maximize productivity and efficiency. We will discuss the benefits of having a structured plan, provide guidance on designing an effective schedule, and offer tips for maintaining a productive daily routine.
 

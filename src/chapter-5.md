@@ -1,5 +1,3 @@
-Chapter 5: Physical Productivity
-================================
 
 In this chapter, we will explore the importance of physical productivity in boosting efficiency and achieving long-term success. We will look at techniques for creating an ergonomic workspace, incorporating physical activity and breaks, and managing sleep and rest.
 

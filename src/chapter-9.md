@@ -1,5 +1,3 @@
-Chapter 9: Conclusion
-=====================
 
 Section: Summary of Key Points
 ------------------------------

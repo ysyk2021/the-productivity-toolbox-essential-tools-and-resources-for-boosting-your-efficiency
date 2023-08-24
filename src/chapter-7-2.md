@@ -1,5 +1,3 @@
-Delegating Tasks to Others
-======================================
 
 In this chapter, we will explore the art of delegating tasks to others effectively. Delegation is a crucial skill for boosting productivity and efficiency, allowing you to focus on high-priority tasks and leverage the skills and expertise of your team members. Learn how to delegate efficiently and empower your team to achieve better results.
 

@@ -1,5 +1,3 @@
-Chapter 8: Continuous Improvement
-=================================
 
 In this chapter, we will explore the importance of continuous improvement in boosting productivity and achieving long-term success. We will look at techniques for evaluating and analyzing productivity, setting goals for improvement, and implementing changes while measuring progress.
 

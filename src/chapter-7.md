@@ -1,5 +1,3 @@
-Chapter 7: Collaboration and Delegation
-=======================================
 
 Collaboration and delegation are essential components of productivity in a team setting. In this chapter, we'll discuss effective collaboration strategies, delegating tasks to others, and managing team productivity.
 

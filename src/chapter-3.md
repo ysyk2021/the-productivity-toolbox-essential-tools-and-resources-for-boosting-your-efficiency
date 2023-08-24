@@ -1,5 +1,3 @@
-Chapter 3: Task Management
-==========================
 
 Effective task management is essential for productivity and success. In this chapter, we'll discuss how to break down tasks into manageable steps, use task management tools, and prioritize tasks based on importance and urgency.
 

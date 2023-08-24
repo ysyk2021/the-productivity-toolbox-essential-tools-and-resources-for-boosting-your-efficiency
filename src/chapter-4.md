@@ -1,5 +1,3 @@
-Chapter 4: Digital Productivity
-===============================
 
 In this chapter, we will explore the importance of digital productivity in boosting efficiency and achieving long-term success. We will look at techniques for utilizing digital tools for organization and efficiency, managing email and communication, and streamlining workflow with automation.
 

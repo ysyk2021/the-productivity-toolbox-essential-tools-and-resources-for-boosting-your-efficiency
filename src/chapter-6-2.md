@@ -1,5 +1,3 @@
-Developing a Growth Mindset
-======================================
 
 In your quest to boost productivity and efficiency, one of the most powerful tools you can cultivate is a growth mindset. A growth mindset allows you to embrace challenges, persist in the face of setbacks, and continuously develop your skills and abilities. In this chapter, we explore the concept of a growth mindset and provide strategies to help you develop and maintain it:
 

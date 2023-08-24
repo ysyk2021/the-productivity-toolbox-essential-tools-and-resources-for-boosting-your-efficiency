@@ -1,5 +1,3 @@
-Importance of Productivity in Personal and Professional Life
-=======================================================================
 
 In today's fast-paced world, productivity plays a crucial role in determining success and achieving personal and professional goals. Whether you're a student, professional, or an individual looking to make the most of your time, understanding the importance of productivity is essential. This chapter explores how productivity impacts both personal and professional life and why it should be prioritized.
 

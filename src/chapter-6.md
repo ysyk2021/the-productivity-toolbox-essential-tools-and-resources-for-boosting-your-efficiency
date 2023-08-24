@@ -1,5 +1,3 @@
-Chapter 6: Mindset and Motivation
-=================================
 
 Mindset and motivation are essential components of productivity. In this chapter, we'll discuss how to overcome procrastination and distractions, develop a growth mindset, and find motivation and inspiration.
 

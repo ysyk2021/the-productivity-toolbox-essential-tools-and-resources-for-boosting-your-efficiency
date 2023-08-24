@@ -1,5 +1,3 @@
-Chapter 10: Appendix
-====================
 
 Section: List of Recommended Productivity Tools and Resources
 -------------------------------------------------------------

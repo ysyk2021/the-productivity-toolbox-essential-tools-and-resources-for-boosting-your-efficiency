@@ -1,5 +1,3 @@
-Identifying Time Wasters
-===================================
 
 Time wasters can significantly hinder productivity and derail your efforts to boost efficiency. In this chapter, we will explore common time-wasting activities and provide strategies for identifying and eliminating them from your work routine.
 

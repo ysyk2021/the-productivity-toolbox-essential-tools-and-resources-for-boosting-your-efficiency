@@ -1,5 +1,3 @@
-Creating an Ergonomic Workspace
-==========================================
 
 In this chapter, we will explore the importance of creating an ergonomic workspace to enhance productivity and well-being. An ergonomic workspace is designed to optimize comfort, reduce physical strain, and promote a healthy work environment. Discover essential tips and tools for setting up your workspace for maximum efficiency.
 
